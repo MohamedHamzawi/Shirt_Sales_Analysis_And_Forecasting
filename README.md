@@ -1,6 +1,6 @@
 # Shirt Orders Sales Analysis And Forecasting
 
-This project covers the analysis and forecasting shirt order sales. The analyis of the data aims to derive insights on revenue trends, customer preferences, and order distributions. The analysis spans data loading, cleaning, merging, and exploratory data analysis.
+This project covers the analysis and forecasting of shirt order sales. The analyis of the data aims to derive insights on revenue trends, customer preferences, and order distributions. The analysis spans data loading, cleaning, merging, and exploratory data analysis.
 The forecasting aims to predict the number of shirt sales for the next specific number of days. The forecasting encorprates a time-series machine-learning forecasting model called ARIMA. The model is then evaluated using a couple of metrics and monitored using mlflow. Then the model was deployed using streamlit
 
  # Data Processing Steps
